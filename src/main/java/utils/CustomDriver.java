@@ -1,6 +1,7 @@
-package com.appinternet.base;
+package utils;
 
-import com.appinternet.utils.Constants;
+import com.appinternet.base.BasePage;
+import utils.Constants;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;

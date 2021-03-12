@@ -1,4 +1,4 @@
-package com.appinternet.utils;
+package utils;
 
 public class Constants {
 
